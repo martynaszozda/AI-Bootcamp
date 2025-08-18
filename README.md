@@ -4,7 +4,7 @@ This repository tracks my progress in learning data analysis, machine learning, 
 ## 🎯 Goals
 - Organize what I learn  
 - Solidify knowledge through hands-on coding  
-- Keep a reference I can return to later  
+- Keep a reference I can return to later
 - Share learning progress with others
 ## 📆 Topics I'm Working On
 - Python for data analysis  
